@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\bin\Debug\Values and Refrences  20.03.2018.exe.config
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\bin\Debug\Values and Refrences  20.03.2018.exe
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\bin\Debug\Values and Refrences  20.03.2018.pdb
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\obj\Debug\Values and Refrences  20.03.2018.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\obj\Debug\Values and Refrences  20.03.2018.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\obj\Debug\Values and Refrences  20.03.2018.exe
+C:\Users\HP\source\repos\Values and Refrences - 20.03.2018\Values and Refrences  20.03.2018\obj\Debug\Values and Refrences  20.03.2018.pdb
